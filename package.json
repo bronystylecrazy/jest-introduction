@@ -1,0 +1,12 @@
+{
+  "name": "jest-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --ci"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
